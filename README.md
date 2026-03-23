@@ -1,7 +1,7 @@
 # 📊 Data Analyst Job Market Analysis (1.3M+ LinkedIn Jobs Dataset)
 
 ## 🔍 Overview
-Analyzed LinkedIn job postings dataset (~1.3M+ records) to identify in-demand skills, hiring trends, and location-based opportunities.
+This project analyzes a large-scale dataset (~1.3M+ job postings) sourced from Kaggle, showcasing real-world data handling and insights generation.
 
 ## 🛠 Tools Used
 - Python (Data Cleaning)
