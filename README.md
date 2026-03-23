@@ -20,8 +20,8 @@ Analyzed LinkedIn job postings dataset (~1.3M+ records) to identify in-demand sk
 - Skill-wise Demand by Location
 - Interactive Filters (Location, Company, Job Type)
 
-## 📸 Dashboard Preview
-(Add your screenshot here)
+
+
 
 ## 💡 Business Impact
 Helps job seekers focus on high-demand skills and locations to improve job opportunities.
