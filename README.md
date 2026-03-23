@@ -1,30 +1,33 @@
 # 📊 Data Analyst Job Market Analysis (1.3M+ LinkedIn Jobs Dataset)
 
-## 🔍 Overview
-This project analyzes a large-scale dataset (~1.3M+ job postings) sourced from Kaggle, showcasing real-world data handling and insights generation.
 
-## 🛠 Tools Used
-- Python (Data Cleaning)
-- SQL (Analysis)
-- Power BI (Dashboard)
+🔍 Overview
+Analyzed a large-scale dataset of 1.3M+ LinkedIn job postings (Kaggle) to uncover hiring trends, in-demand skills, and location-based opportunities. The project focuses on handling real-world unstructured data and generating actionable insights.
 
-## 📊 Key Insights
-- SQL appears in ~70–80% of job postings, making it a core skill
-- Excel and Tableau remain essential for business reporting
-- Cupertino & Lake Buena Vista show high hiring concentration
-- Power BI & Python indicate shift toward modern analytics
+🛠 Tools & Technologies
 
-## 📈 Dashboard Features
-- Top Skills in Demand
-- Top Hiring Locations
-- Skill-wise Demand by Location
-- Interactive Filters (Location, Company, Job Type)
+Python (Data Cleaning & Preprocessing)
+SQL (Data Analysis & Querying)
+Power BI (Dashboard Development & Visualization)
+
+📊 Key Insights
+
+SQL appears in ~70–80% of job postings, making it a core skill across roles
+Excel and Tableau remain essential for business reporting and visualization
+Locations like Cupertino & Lake Buena Vista show high hiring concentration
+Increasing demand for Power BI & Python indicates a shift toward modern analytics tools
+
+📈 Dashboard Features
+
+Top Skills in Demand
+Top Hiring Locations
+Skill-wise Demand by Location
+Interactive filters (Location, Company, Job Type) for dynamic analysis
+
 
 ## 📸 Dashboard Preview
   **![Dashboard Preview](dashboard-preview.png)**
 
 
-
-
-## 💡 Business Impact
-Helps job seekers focus on high-demand skills and locations to improve job opportunities.
+💡 Business Impact
+Provides data-driven guidance for job seekers to prioritize high-demand skills and target the right locations, improving job search strategy and career planning.
