@@ -1,4 +1,4 @@
-# 📊 Data Analyst Job Market Analysis
+# 📊 Data Analyst Job Market Analysis (1.3M+ LinkedIn Jobs Dataset)
 
 ## 🔍 Overview
 Analyzed LinkedIn job postings dataset (~1.3M+ records) to identify in-demand skills, hiring trends, and location-based opportunities.
